@@ -1,0 +1,524 @@
+{
+  "County_ID": 100,
+  "county_id": 100,
+  "county_desc": "YANCEY",
+  "latest": {
+    "election_lbl": "11/05/2024",
+    "total_ballots": 11420,
+    "voting_methods": {
+      "EARLY VOTING IN-PERSON": 8193,
+      "ELECTION DAY IN-PERSON": 2191,
+      "ABSENTEE BY MAIL": 670,
+      "EARLY VOTING CURBSIDE": 250,
+      "PROVISIONAL": 85,
+      "ELECTION DAY CURBSIDE": 30,
+      "TRANSFER": 1
+    },
+    "parties": {
+      "REP": 4549,
+      "UNA": 3960,
+      "DEM": 2840,
+      "LIB": 51,
+      "NLB": 13,
+      "GRE": 4,
+      "WTP": 2,
+      "JFA": 1
+    },
+    "precincts": {
+      "BURNSVILLE": 2487,
+      "CRABTREE": 1991,
+      "SOUTH TOE": 1592,
+      "JACKS CREEK": 1210,
+      "CANE RIVER": 1159,
+      "PRICES CREEK": 1026,
+      "PENSACOLA": 449,
+      "EGYPT": 438,
+      "GREEN MOUNTAIN": 383,
+      "BRUSH CREEK": 357,
+      "RAMSEYTOWN": 233,
+      "MARS HILL": 4,
+      "70.1": 3,
+      "PLUMTREE": 2,
+      "SECESSION 2": 2,
+      "CHIMNEY ROCK": 2,
+      "71.1": 2,
+      "41.1": 2,
+      "52.1": 2,
+      "0030": 2,
+      "GASTON DAY": 2,
+      "G31": 2,
+      "PCT 021": 2,
+      "BEECH GLEN": 2,
+      "CROOKED CREEK": 2,
+      "PCT 143": 2,
+      "PCT 216": 2,
+      "RED HILL": 2,
+      "GRASSY CREEK": 2,
+      "JAM3": 2,
+      "BOYD": 2,
+      "WALLBURG #80A": 2,
+      "ROARING CREEK": 1,
+      "CRANBERRY": 1,
+      "INGALLS": 1,
+      "JONATHAN CREEK": 1,
+      "69.1": 1,
+      "48.1": 1,
+      "53.1": 1,
+      "51.2": 1,
+      "37.1": 1,
+      "20.1": 1,
+      "26.1": 1,
+      "68.1": 1,
+      "29.2": 1,
+      "01.1": 1,
+      "02.1": 1,
+      "TAYLORSVILLE #1 #4 #5": 1,
+      "PILOT MOUNTAIN": 1,
+      "01-11": 1,
+      "02-07": 1,
+      "PCT 076": 1,
+      "18.2": 1,
+      "MURPHY NORTH": 1,
+      "PCT 222": 1,
+      "TOWN CREEK": 1,
+      "W27": 1,
+      "PELETIER": 1,
+      "GRAPEVINE": 1,
+      "EBBS CHAPEL": 1,
+      "NEW RIVER I": 1,
+      "LAUREL": 1,
+      "PLEASANT GARDENS": 1,
+      "TURKEY COVE #17": 1,
+      "NORTH COVE": 1,
+      "MARION #1": 1,
+      "PCT 225": 1,
+      "PCT 148": 1,
+      "PCT 037": 1,
+      "HARRELL": 1,
+      "SNOW CREEK": 1,
+      "BAKERSVILLE": 1,
+      "58.1": 1,
+      "CANE CREEK": 1,
+      "028B": 1,
+      "BLUE RIDGE": 1,
+      "05.1": 1,
+      "16.2": 1,
+      "H.J. MACDONALD": 1,
+      "65.1": 1,
+      "DAMASCUS": 1,
+      "44.1": 1
+    }
+  },
+  "elections": [
+    {
+      "election_lbl": "11/05/2024",
+      "total_ballots": 11420,
+      "voting_methods": {
+        "EARLY VOTING IN-PERSON": 8193,
+        "ELECTION DAY IN-PERSON": 2191,
+        "ABSENTEE BY MAIL": 670,
+        "EARLY VOTING CURBSIDE": 250,
+        "PROVISIONAL": 85,
+        "ELECTION DAY CURBSIDE": 30,
+        "TRANSFER": 1
+      },
+      "parties": {
+        "REP": 4549,
+        "UNA": 3960,
+        "DEM": 2840,
+        "LIB": 51,
+        "NLB": 13,
+        "GRE": 4,
+        "WTP": 2,
+        "JFA": 1
+      }
+    },
+    {
+      "election_lbl": "05/14/2024",
+      "total_ballots": 371,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 189,
+        "EARLY VOTING IN-PERSON": 165,
+        "ABSENTEE BY MAIL": 9,
+        "PROVISIONAL": 4,
+        "EARLY VOTING CURBSIDE": 3,
+        "ELECTION DAY CURBSIDE": 1
+      },
+      "parties": {
+        "REP": 371
+      }
+    },
+    {
+      "election_lbl": "03/05/2024",
+      "total_ballots": 3666,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 2170,
+        "EARLY VOTING IN-PERSON": 1383,
+        "ABSENTEE BY MAIL": 55,
+        "EARLY VOTING CURBSIDE": 36,
+        "ELECTION DAY CURBSIDE": 16,
+        "PROVISIONAL": 6
+      },
+      "parties": {
+        "REP": 2550,
+        "DEM": 1101,
+        "LIB": 15
+      }
+    },
+    {
+      "election_lbl": "11/07/2023",
+      "total_ballots": 109,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 105,
+        "ABSENTEE ONESTOP": 3,
+        "PROVISIONAL": 1
+      },
+      "parties": {
+        "DEM": 51,
+        "UNA": 37,
+        "REP": 21
+      }
+    },
+    {
+      "election_lbl": "11/08/2022",
+      "total_ballots": 9010,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 5100,
+        "ELECTION DAY IN-PERSON": 3214,
+        "ABSENTEE BY MAIL": 367,
+        "ABSENTEE CURBSIDE": 264,
+        "ELECTION DAY CURBSIDE": 48,
+        "PROVISIONAL": 17
+      },
+      "parties": {
+        "REP": 3590,
+        "UNA": 2812,
+        "DEM": 2572,
+        "LIB": 36
+      }
+    },
+    {
+      "election_lbl": "07/26/2022",
+      "total_ballots": 6,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 3,
+        "ABSENTEE BY MAIL": 2,
+        "ABSENTEE ONESTOP": 1
+      },
+      "parties": {
+        "DEM": 4,
+        "LIB": 1,
+        "UNA": 1
+      }
+    },
+    {
+      "election_lbl": "05/17/2022",
+      "total_ballots": 3526,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 1795,
+        "ABSENTEE ONESTOP": 1565,
+        "ABSENTEE BY MAIL": 68,
+        "ABSENTEE CURBSIDE": 57,
+        "ELECTION DAY CURBSIDE": 24,
+        "PROVISIONAL": 17
+      },
+      "parties": {
+        "REP": 2695,
+        "DEM": 830,
+        "UNA": 1
+      }
+    },
+    {
+      "election_lbl": "11/02/2021",
+      "total_ballots": 396,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 381,
+        "ABSENTEE ONESTOP": 7,
+        "ELECTION DAY CURBSIDE": 7,
+        "PROVISIONAL": 1
+      },
+      "parties": {
+        "DEM": 182,
+        "REP": 108,
+        "UNA": 104,
+        "LIB": 2
+      }
+    },
+    {
+      "election_lbl": "11/03/2020",
+      "total_ballots": 11657,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 7264,
+        "ELECTION DAY IN-PERSON": 2201,
+        "ABSENTEE BY MAIL": 1626,
+        "ABSENTEE CURBSIDE": 479,
+        "ELECTION DAY CURBSIDE": 58,
+        "PROVISIONAL": 29
+      },
+      "parties": {
+        "REP": 4557,
+        "DEM": 3538,
+        "UNA": 3503,
+        "LIB": 42,
+        "CST": 6,
+        "GRE": 4
+      }
+    },
+    {
+      "election_lbl": "06/23/2020",
+      "total_ballots": 1194,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 595,
+        "ABSENTEE ONESTOP": 564,
+        "ABSENTEE BY MAIL": 21,
+        "ABSENTEE CURBSIDE": 8,
+        "ELECTION DAY CURBSIDE": 5,
+        "PROVISIONAL": 1
+      },
+      "parties": {
+        "REP": 1194
+      }
+    },
+    {
+      "election_lbl": "03/03/2020",
+      "total_ballots": 5241,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 2755,
+        "ABSENTEE ONESTOP": 2322,
+        "ABSENTEE BY MAIL": 85,
+        "ABSENTEE CURBSIDE": 31,
+        "PROVISIONAL": 28,
+        "ELECTION DAY CURBSIDE": 16,
+        "TRANSFER": 4
+      },
+      "parties": {
+        "REP": 2709,
+        "DEM": 2519,
+        "LIB": 10,
+        "CST": 2,
+        "UNA": 1
+      }
+    },
+    {
+      "election_lbl": "11/05/2019",
+      "total_ballots": 311,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 300,
+        "ELECTION DAY CURBSIDE": 6,
+        "ABSENTEE ONESTOP": 5
+      },
+      "parties": {
+        "DEM": 157,
+        "REP": 84,
+        "UNA": 69,
+        "CST": 1
+      }
+    },
+    {
+      "election_lbl": "10/08/2019",
+      "total_ballots": 4,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 4
+      },
+      "parties": {
+        "UNA": 2,
+        "DEM": 2
+      }
+    },
+    {
+      "election_lbl": "09/10/2019",
+      "total_ballots": 29,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 20,
+        "ABSENTEE ONESTOP": 9
+      },
+      "parties": {
+        "REP": 12,
+        "DEM": 11,
+        "UNA": 6
+      }
+    },
+    {
+      "election_lbl": "07/09/2019",
+      "total_ballots": 1,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 1
+      },
+      "parties": {
+        "REP": 1
+      }
+    },
+    {
+      "election_lbl": "05/14/2019",
+      "total_ballots": 7,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 4,
+        "ELECTION DAY IN-PERSON": 3
+      },
+      "parties": {
+        "REP": 7
+      }
+    },
+    {
+      "election_lbl": "04/30/2019",
+      "total_ballots": 1,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 1
+      },
+      "parties": {
+        "DEM": 1
+      }
+    },
+    {
+      "election_lbl": "11/06/2018",
+      "total_ballots": 9573,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 5404,
+        "ELECTION DAY IN-PERSON": 3460,
+        "ABSENTEE BY MAIL": 509,
+        "ABSENTEE CURBSIDE": 127,
+        "ELECTION DAY CURBSIDE": 39,
+        "PROVISIONAL": 30,
+        "TRANSFER": 4
+      },
+      "parties": {
+        "REP": 3536,
+        "DEM": 3497,
+        "UNA": 2509,
+        "LIB": 24,
+        "GRE": 4,
+        "CST": 2
+      }
+    },
+    {
+      "election_lbl": "05/08/2018",
+      "total_ballots": 1901,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 1189,
+        "ABSENTEE ONESTOP": 675,
+        "ABSENTEE BY MAIL": 12,
+        "ELECTION DAY CURBSIDE": 11,
+        "ABSENTEE CURBSIDE": 8,
+        "PROVISIONAL": 6
+      },
+      "parties": {
+        "DEM": 1207,
+        "REP": 693,
+        "LIB": 1
+      }
+    },
+    {
+      "election_lbl": "11/07/2017",
+      "total_ballots": 519,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 466,
+        "ELECTION DAY CURBSIDE": 34,
+        "ABSENTEE ONESTOP": 15,
+        "PROVISIONAL": 4
+      },
+      "parties": {
+        "DEM": 258,
+        "REP": 148,
+        "UNA": 112,
+        "LIB": 1
+      }
+    },
+    {
+      "election_lbl": "10/10/2017",
+      "total_ballots": 21,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 16,
+        "ABSENTEE ONESTOP": 5
+      },
+      "parties": {
+        "DEM": 13,
+        "UNA": 8
+      }
+    },
+    {
+      "election_lbl": "09/12/2017",
+      "total_ballots": 5,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 4,
+        "ABSENTEE ONESTOP": 1
+      },
+      "parties": {
+        "DEM": 4,
+        "REP": 1
+      }
+    },
+    {
+      "election_lbl": "11/08/2016",
+      "total_ballots": 10421,
+      "voting_methods": {
+        "ABSENTEE ONESTOP": 5816,
+        "ELECTION DAY IN-PERSON": 3812,
+        "ABSENTEE BY MAIL": 598,
+        "ABSENTEE CURBSIDE": 120,
+        "ELECTION DAY CURBSIDE": 40,
+        "PROVISIONAL": 31,
+        "TRANSFER": 4
+      },
+      "parties": {
+        "DEM": 3867,
+        "REP": 3836,
+        "UNA": 2690,
+        "LIB": 28
+      }
+    },
+    {
+      "election_lbl": "06/07/2016",
+      "total_ballots": 1921,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 1302,
+        "ABSENTEE ONESTOP": 472,
+        "ABSENTEE BY MAIL": 118,
+        "ELECTION DAY CURBSIDE": 19,
+        "ABSENTEE CURBSIDE": 6,
+        "PROVISIONAL": 4
+      },
+      "parties": {
+        "DEM": 991,
+        "REP": 798,
+        "UNA": 131,
+        "LIB": 1
+      }
+    },
+    {
+      "election_lbl": "03/15/2016",
+      "total_ballots": 6133,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 3684,
+        "ABSENTEE ONESTOP": 2079,
+        "ABSENTEE BY MAIL": 236,
+        "PROVISIONAL": 66,
+        "ABSENTEE CURBSIDE": 30,
+        "ELECTION DAY CURBSIDE": 29,
+        "TRANSFER": 9
+      },
+      "parties": {
+        "REP": 3046,
+        "DEM": 3045,
+        "UNA": 25,
+        "LIB": 17
+      }
+    },
+    {
+      "election_lbl": "11/03/2015",
+      "total_ballots": 452,
+      "voting_methods": {
+        "ELECTION DAY IN-PERSON": 409,
+        "ELECTION DAY CURBSIDE": 19,
+        "ABSENTEE ONESTOP": 18,
+        "PROVISIONAL": 5,
+        "TRANSFER": 1
+      },
+      "parties": {
+        "DEM": 215,
+        "REP": 138,
+        "UNA": 96,
+        "LIB": 3
+      }
+    }
+  ]
+}
